@@ -348,3 +348,6 @@ main{
     bottom: 5%;
     left: 77%;
 }
+html{
+    scroll-behavior: smooth;
+}
